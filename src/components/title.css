@@ -1,0 +1,45 @@
+.Title__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    width: 800px;
+  }
+  
+  .Title__title-wrapper {
+    display: flex;
+    align-items: center;
+    width: 800px;
+  }
+  
+  .Title__title-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 12px;
+  }
+  
+  .Title__title {
+    font-size: 16px;
+    font-weight: 100;
+    color: #151515;
+  }
+  
+  .Title__button-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Title__button-icon {
+    width: 15px;
+    height: 15px;
+    margin-right: 4px;
+  }
+  
+  .Title__button-text {
+    font-size: 10px;
+    width: max-content; 
+    font-weight: bold;
+    color: #E76E54;
+  }
+  
+  

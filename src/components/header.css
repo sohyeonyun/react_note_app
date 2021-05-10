@@ -1,0 +1,25 @@
+header {
+    height: 53px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #E9E9E9;
+  }
+  
+  .Header__content {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Header__title {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .Header__button {
+    font-size: 10px;
+    font-weight: bold;
+    color: #E76E54;
+  }
+  

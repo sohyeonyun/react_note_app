@@ -1,0 +1,22 @@
+.Button__normal-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 36px;
+    border: 1px solid #E9E9E9;
+    border-radius: 10px;
+    padding: 0 16px;
+  }
+  
+  .Button__icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+  }
+  
+  .Button__text {
+    font-size: 14px;
+    font-weight: 100;
+    color: #151515;
+  }
+  

@@ -1,0 +1,12 @@
+.Note__input {
+    height: 112px;
+    width: 800px;
+    box-sizing: border-box;
+    padding: 20px 24px;
+    border-radius: 5px;
+    background-color: #F6F6F6;
+    font-size: 13px;
+    color: #1C1C1C;
+    margin-bottom: 16px;
+  }
+  
